@@ -19,7 +19,6 @@ def translating(input):
     for tagging in taggings:
         result.append(mapping(tagging, tagging_dict))
     output = ' '.join(result)
-    print(output)
     return output
 
 def mapping(tagging_abbr, dict):
