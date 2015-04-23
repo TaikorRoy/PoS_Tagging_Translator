@@ -28,11 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="translator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="translator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/translator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2857143" vertical-offset="0" max-vertical-offset="1040">
-              <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1040">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17142858" vertical-offset="0" max-vertical-offset="455">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -55,6 +65,7 @@
       <list>
         <option value="$PROJECT_DIR$/PoS_tagging_dict" />
         <option value="$PROJECT_DIR$/translator.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
       </list>
     </option>
   </component>
@@ -401,8 +412,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/translator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2857143" vertical-offset="0" max-vertical-offset="1040">
-          <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1040">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17142858" vertical-offset="0" max-vertical-offset="455">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
           <folding />
         </state>
       </provider>
