@@ -2,8 +2,12 @@ __author__ = 'Taikor'
 
 
 import json
+from os import path
 
-json_path = "PoS_tagging_dict.json"   # json file storing the tagging dictionary
+json_file_name = "PoS_tagging_dict.json"   # json file storing the tagging dictionary
+dirname = path.dirname(path.abspath(__file__))
+json_path = path.join(dirname, json_file_name)
+
 
 def translating(input):
     with open(json_path, 'r', encoding='utf-8') as f:
