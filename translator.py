@@ -36,3 +36,7 @@ def mapping(tagging_abbr, dict):
 input = 'ag an ad a e ng nr ns nt nz nx n q r s tg vg vd vn v y z'
 translating(input)
 """
+
+input = 'ag an ad a e ng nr ns nt nz nx n q r s tg vg vd vn v y z'
+result = translating(input)
+print(result)
